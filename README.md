@@ -1,0 +1,1 @@
+# my-shop-stock-a
